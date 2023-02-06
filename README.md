@@ -1,6 +1,10 @@
 # Project-2
 Investigation of the Negative Correlation between Sea Surface Temperature and Chlorophyll-a Concentration in the North Atlantic Ocean:
 
+
+![image](https://user-images.githubusercontent.com/122451494/217112252-eaae848a-d9e8-4831-a93a-10c7b26b3726.png)
+
+
 ## Introduction:
 
 Chlorophyll-a (chl-a) concentration of the surface waters is a deciding factor of net primary production levels. For phytoplankton to bloom they require light and minerals. Therefore, the negative correlation between Sea Surface Temperature (SST) and Chl-a concentration levels can be explained;
