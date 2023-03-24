@@ -1,5 +1,5 @@
-# Project-2
-Investigation of the Negative Correlation between Sea Surface Temperature and Chlorophyll-a Concentration in the North Atlantic Ocean:
+# Data Driven Investigation of the Negative Correlation between Sea Surface Temperature and Chlorophyll-a Concentration
+*Investigation of the Negative Correlation between Sea Surface Temperature and Chlorophyll-a Concentration in the North Atlantic Ocean:*
 
 
 ![image](https://user-images.githubusercontent.com/122451494/217112252-eaae848a-d9e8-4831-a93a-10c7b26b3726.png)
@@ -27,8 +27,7 @@ My methods involved first extracting the chlorophyll-a data in the form of a .cs
 
 - The maximum monthly mean water temperature at 17.8°C, occured in the same month as the minimum monthly mean chl-a concentration at 0.11μg/L
 
-- plot 1:
-image.png
+
 
 - plot 2:
 image.png
