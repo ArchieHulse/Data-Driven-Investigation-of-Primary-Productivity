@@ -27,21 +27,21 @@ My methods involved first extracting the chlorophyll-a data in the form of a .cs
 
 - The maximum monthly mean water temperature at 17.8°C, occured in the same month as the minimum monthly mean chl-a concentration at 0.11μg/L
 
+<img width="328" alt="Screenshot 2023-03-24 at 12 08 48" src="https://user-images.githubusercontent.com/122451494/227506665-015f14a5-832d-4bc2-8155-f40007876aad.png">
+<sup>*(TABLE. 1. Data frame cleaned and wrangled to summarise the results of SST and Chl-a concentration, monthly)*</sup>
 
+<img width="420" alt="Screenshot 2023-03-24 at 12 09 15" src="https://user-images.githubusercontent.com/122451494/227507372-484b9565-72b4-4973-9f10-2e4f7754c8ab.png">
+<sup>*(FIG. 1. Plot to show the seasonal variability in SST)*</sup>
 
-- plot 2:
-image.png
+<img width="453" alt="Screenshot 2023-03-24 at 12 09 35" src="https://user-images.githubusercontent.com/122451494/227507604-87662394-258d-4b9d-af1d-3bb93cd4b7ec.png">
+<sup>*(FIG. 2. Plot to show the seasonal variability in Chl-a concentration. Dipicted is the Spring Bloom and Summer Depletion)*</sup>
 
-- plot 3:
-
-
-- plot 4:
-image.png
-
+<img width="964" alt="Screenshot 2023-03-24 at 12 09 56" src="https://user-images.githubusercontent.com/122451494/227508146-9f1492c3-b276-44df-b1ca-9ffd9473c92e.png">
+<sup>*(FIG. 3. Multi-axis plot to summarise the relationship between temperature and Chl-a concentration and therfore the seasonal variability in the North Atlantic Sea Surface Primary Productivity)*</sup>
 
 ## Further Work:
 
 With futher time resource, more work in validadting the data such as its deviations from the mean to understand its accuracy would have been made.
-Also, further time could be spent retreving differnt plots to visualise the data in a range of perspectives
+Also, further time could be spent retreving differnt plots to visualise the data in a range of perspectives.
 
 
