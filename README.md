@@ -22,6 +22,10 @@ Data was collected from the E.U. Copernicus Marine Service Information data base
 
 My methods involved first extracting the chlorophyll-a data in the form of a .csv file. Similarly, the sea surface temperature data was obtained using an api installation into the python editing environment where both data sets where cleaning and formated into tables ready for manipulation and visualisation.
 
+<img width="1334" alt="Screenshot 2023-03-24 at 12 37 37" src="https://user-images.githubusercontent.com/122451494/227511518-a3763cf4-c3c4-44fd-b5a5-70a6f3821253.png">
+<sup>(Schematic break-down of the summer and winter mixing differences and its effect on primary productivity)</sup>
+
+---
 
 ## Findings:
 
